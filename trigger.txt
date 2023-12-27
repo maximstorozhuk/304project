@@ -1,0 +1,8 @@
+CREATE Trigger moreMoney
+BEFORE INSERT ON emp
+FOR EACH ROW
+BEGIN
+IF NEW.salary < 50000 THEN
+SET NEW.salary = (SELECT AVG(salary) FROM emp WHERE title = NEW.title) + 5000;
+END IF;
+END;
