@@ -1,12 +1,11 @@
 # COSC 304 Final Project
 Notes:
  - Project placed #4 out of 116 projects in the class
-
-Homepage will be: http://localhost/shop/listprod.jsp
-Sample User Username: maximstorozhuk
-Sample User Password: maximstorozhuk
-Sample Admin Username: maximadmin
-Sample Admin Password: maximstorozhuk
+ - Homepage will be: http://localhost/shop/listprod.jsp
+ - Sample User Username: maximstorozhuk
+ - Sample User Password: maximstorozhuk
+ - Sample Admin Username: maximadmin
+ - Sample Admin Password: maximstorozhuk
 
 Maxim Storozhuk's Contributions:
  - Search for product by name
